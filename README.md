@@ -26,7 +26,7 @@ cd StreamlitPPII
 
 2. Crie e ative um ambiente virtual:
 ```bash
-ppython -m venv venv
+python -m venv venv
 # Linux/macOS:
 source venv/bin/activate
 # Windows:
