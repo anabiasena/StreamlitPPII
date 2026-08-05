@@ -18,7 +18,7 @@ StreamlitPPII/
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/anabiasena/StreamlitPPII.git](https://github.com/anabiasena/StreamlitPPII.git)
+git clone https://github.com/anabiasena/StreamlitPPII.git
 cd StreamlitPPII
 
 ```
